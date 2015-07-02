@@ -57,6 +57,9 @@ div.main {
 	padding: 4em;
 	max-width: 50em;
 	width: calc(100% - 4em);
+	time {
+		text-align: right;
+	}
 }
 
 .hp-container h1 {
