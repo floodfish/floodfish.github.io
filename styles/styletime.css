@@ -60,7 +60,11 @@ a:hover {
 }
 
 .resume-container header a {
-		text-decoration: none;
+	text-decoration: none;
+}
+
+.resume-container section {
+	margin-top: 1.5em;
 }
 
 .resume-container h2, h3 {
