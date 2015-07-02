@@ -63,8 +63,9 @@ a:hover {
 		text-decoration: none;
 }
 
-.resume-container h3 {
+.resume-container h2, h3 {
 	float: left;
+	font-weight: 700;
 	margin-bottom: .25em;
 }
 
@@ -77,6 +78,10 @@ a:hover {
 
 .resume-container p {
 	clear: both;
+}
+
+.resume-container ul {
+	margin-left: 1em;
 }
 
 .resume-container li {
