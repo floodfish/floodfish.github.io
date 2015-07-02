@@ -78,6 +78,9 @@ a:hover {
 	font-size: 1.2em
 }
 
+.resume-container h3 {
+	font-style: italic;
+}
 
 .resume-container time {
 	text-align: right;
