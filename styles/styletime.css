@@ -63,6 +63,18 @@ a:hover {
 	text-decoration: none;
 }
 
+.resume-container h1 {
+	font-size: 1.5em;
+}
+
+.resume-container header p {
+	margin: 0;
+}
+
+.resume-container header p a {
+	margin-right: 2em;
+}
+
 .resume-container section {
 	margin: 1.5em 0;
 }
