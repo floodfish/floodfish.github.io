@@ -84,6 +84,7 @@ a:hover {
 	display: block;
 	float: right;
 	margin-bottom: .25em;
+	font-style: italic;
 }
 
 .resume-container p {
