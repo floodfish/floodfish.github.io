@@ -74,6 +74,11 @@ a:hover {
 	margin: 0 0 .25em;
 }
 
+.resume-container h2 {
+	font-size: 1.2em
+}
+
+
 .resume-container time {
 	text-align: right;
 	display: block;
