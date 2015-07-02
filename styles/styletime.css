@@ -29,7 +29,7 @@ a:hover {
 	color: #f74b29;
 }
 
-div.main {
+.main {
 	max-width: 40em;
 	width: calc(100% - 2em);
 	padding: 1em;
