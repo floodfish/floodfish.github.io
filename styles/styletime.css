@@ -63,9 +63,25 @@ a:hover {
 		text-decoration: none;
 }
 
+.resume-container h3 {
+	float: left;
+	margin-bottom: .25em;
+}
+
 .resume-container time {
 	text-align: right;
 	display: block;
+	float: right;
+	margin-bottom: .25em;
+}
+
+.resume-container p {
+	clear: both;
+}
+
+.resume-container li {
+	list-style: disc;
+	margin-left: .25em;
 }
 
 .hp-container h1 {
