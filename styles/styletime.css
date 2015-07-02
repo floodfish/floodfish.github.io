@@ -2,7 +2,7 @@ body {
 	padding: 2em 1em;
 	text-align: center;
 	font-size: 16px;
-	font-family: courier, monospace, serif;
+	font-family: "Courier", monospace, serif;
 	color: #4a3932;
 	background: #fffff9;
 	background: -webkit-linear-gradient(#fffff9, #d6d6d2);
@@ -49,6 +49,14 @@ div.main {
 	font-size: 1em;
 	margin: 2em 0 1em;
 	font-weight: bold;
+}
+
+.resume-container {
+	font-family: "Georgia", serif;
+	font-size: 1.1em;
+	padding: 4em;
+	max-width: 50em;
+	width: calc(100% - 4em);
 }
 
 .hp-container h1 {
