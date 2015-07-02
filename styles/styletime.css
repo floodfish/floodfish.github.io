@@ -59,8 +59,13 @@ div.main {
 	width: calc(100% - 4em);
 }
 
+.resume-container header a {
+		text-decoration: none;
+}
+
 .resume-container time {
 	text-align: right;
+	display: block;
 }
 
 .hp-container h1 {
