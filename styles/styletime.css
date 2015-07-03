@@ -197,6 +197,7 @@ img.hero {
 @media print {
 	body {
 		padding: 0;
+		font-size: 12px;
 	}
 	.main {
 		padding: 0;
