@@ -57,6 +57,9 @@ a:hover {
 	padding: 3.5em 4em 2.5em;
 	max-width: 50em;
 	width: calc(100% - 4em);
+	@media screen and (max-width: 620px){
+		padding: 1em;
+	}
 }
 
 .resume-container header a {
