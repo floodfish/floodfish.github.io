@@ -1,0 +1,27 @@
+*~
+.svn
+.cvs
+.git
+.htaccess
+.listing
+*.bak
+*.swp
+*.log
+plugins/wp-file-cache/cache
+cache
+.cache
+temp
+tmp
+*.tmp
+
+# Hidden system files
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
+
+# sass related files
+/.sass-cache
+/css/style.css.map
+/css/style.css.map.orig
+*.map
+.htaccess
