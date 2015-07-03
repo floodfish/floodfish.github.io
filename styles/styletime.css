@@ -193,3 +193,16 @@ img.hero {
 		width: calc(100% - 1em);
 	}
 }
+
+@media print {
+	body {
+		padding: 0;
+	}
+	.main {
+		padding: 0;
+		width: 100%;
+		max-width: 100%;
+		border: 0;
+	}
+}
+
