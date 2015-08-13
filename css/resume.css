@@ -35,7 +35,7 @@
     clear: both;
     margin: 0; }
   .resume-container ul {
-    margin-left: 1em; }
+    margin-left: 1.2em; }
   .resume-container li {
     list-style: disc;
     margin: .5em 0; }
@@ -56,9 +56,6 @@
     padding: 0;
     width: 100%;
     max-width: 100%;
-    border: 0; }
-
-  .resume-container ul {
-    margin-left: 1em; } }
+    border: 0; } }
 
 /*# sourceMappingURL=resume.css.map */
