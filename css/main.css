@@ -138,7 +138,7 @@ a {
         width: auto; }
         @media screen and (max-width: 480px) {
           .wintercolors-container .wintercolor-lineup .item.long > img {
-            width: calc(100% - 1em);
+            width: 18rem;
             height: auto; } }
       .wintercolors-container .wintercolor-lineup .item .title {
         font-size: 0.8rem;
